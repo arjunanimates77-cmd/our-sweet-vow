@@ -24,7 +24,7 @@ const WhyILoveYou = () => {
     {
       id: 2,
       icon: <Heart className="w-8 h-8 fill-current" />,
-      title: 'aapka tharak pan jo mujhe hamesha mere chehre pe smile laata hai',
+      title: 'Aapka tharak pan jo mujhe hamesha mere chehre pe smile laata hai',
       description: "Your unique tharki skills make me laugh",
       color: "text-secondary"
     },
