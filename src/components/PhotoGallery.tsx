@@ -23,7 +23,7 @@ const PhotoGallery = () => {
     {
       id: 1,
       src: coupleSunset,
-      caption: "Sunset wale moments ✨",
+      caption: "“Tera haath, mera haath… aur zindagi ka saara raasta saath.” ❤️✨",
       description: "Our romantic evening in Goa"
     },
     {
@@ -47,8 +47,8 @@ const PhotoGallery = () => {
     {
       id: 5,
       src: anniversarySetup,
-      caption: "Celebration time 🎉",
-      description: "Every day is special with you"
+      caption: "Ring Exchange 💍",
+      description: “ungliyon mein pyaar ka chhota sa wada bandh dena” 💍❤️
     }
   ]);
 
