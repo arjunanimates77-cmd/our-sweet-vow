@@ -24,7 +24,7 @@ const PhotoGallery = () => {
       id: 1,
       src: coupleSunset,
       caption: "“Tera haath, mera haath… aur zindagi ka saara raasta saath.” ❤️✨",
-      description: "Our romantic evening in Goa"
+      description: "Our beautiful day 🌥️"
     },
     {
       id: 2,
