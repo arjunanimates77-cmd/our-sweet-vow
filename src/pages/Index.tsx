@@ -7,6 +7,7 @@ import WhyILoveYou from '@/components/WhyILoveYou';
 import CounterAndPlans from '@/components/CounterAndPlans';
 import WishBoard from '@/components/WishBoard';
 import FinalPromise from '@/components/FinalPromise';
+import HugButton from '@/components/HugButton';
 
 const Index = () => {
   return (
@@ -20,6 +21,7 @@ const Index = () => {
       <CounterAndPlans />
       <WishBoard />
       <FinalPromise />
+      <HugButton />
     </div>
   );
 };

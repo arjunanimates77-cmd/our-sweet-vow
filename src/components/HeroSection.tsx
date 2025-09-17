@@ -72,7 +72,7 @@ const HeroSection = () => {
 
         {/* Subheadline */}
         <p className="font-sans text-xl md:text-2xl text-secondary/80 mb-8 animate-slide-up" style={{ animationDelay: '0.3s' }}>
-          <span className="font-medium">Arjun + Preethi</span> — since <span className="font-medium">17 Sept 2022</span>
+          <span className="font-medium">Arjun + Preethi</span> — since <span className="font-medium">17 Sept 2024</span>
         </p>
 
         {/* Kicker text */}

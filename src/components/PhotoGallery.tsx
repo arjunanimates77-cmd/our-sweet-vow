@@ -35,14 +35,14 @@ const PhotoGallery = () => {
     {
       id: 3,
       src: beachPicnic,
-      caption: "Beach pe picnic 🏖️",
+      caption: "Perfect day out 🌸",
       description: "Perfect day, perfect company"
     },
     {
       id: 4,
       src: goaHouses,
-      caption: "Goa diaries 🏡",
-      description: "Exploring colorful streets together"
+      caption: "Adventure time 🏡",
+      description: "Exploring beautiful places together"
     },
     {
       id: 5,

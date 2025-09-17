@@ -194,6 +194,28 @@
     transform: translateY(-4px);
     box-shadow: var(--shadow-romantic);
   }
+
+  /* Float around animation for hug hearts */
+  @keyframes float-around {
+    0% { 
+      transform: translate(0, 0) rotate(0deg); 
+      opacity: 0;
+    }
+    10% { 
+      opacity: 1;
+    }
+    90% { 
+      opacity: 1;
+    }
+    100% { 
+      transform: translate(200px, -200px) rotate(360deg); 
+      opacity: 0;
+    }
+  }
+
+  .animate-float-around {
+    animation: float-around 3s ease-in-out infinite;
+  }
 }
 
 @layer base {
