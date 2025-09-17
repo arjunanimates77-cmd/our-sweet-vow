@@ -32,7 +32,7 @@ const WhyILoveYou = () => {
       id: 3,
       icon: <Brain className="w-8 h-8" />,
       title: "Tum smart ho AND dil ki saaf",
-      description: "Beauty with brains and the purest heart",
+      description: "Beauty with brains and the purest heart, ha bas mere sawalo ka jawab hi nahi aate",
       color: "text-accent"
     },
     {
