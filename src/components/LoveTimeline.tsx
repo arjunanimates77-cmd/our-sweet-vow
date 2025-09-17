@@ -17,38 +17,38 @@ const LoveTimeline = () => {
   const events: TimelineEvent[] = [
     {
       id: 1,
-      year: '2022',
+      year: '2024',
       title: 'Jab hum mile',
       emoji: '✨',
-      description: 'The moment our story began'
+      description: 'The moment our story began on Discord'
     },
     {
       id: 2,
-      year: '2022',
+      year: '2025',
       title: 'Pehli date',
       emoji: '☕',
-      description: 'Coffee and endless conversations'
+      description: 'April 2nd - Coffee and endless conversations'
     },
     {
       id: 3,
-      year: '2023',
+      year: '2025',
       title: 'Woh waali hansi "tharki no.1"',
       emoji: '😄',
       description: 'When you earned this special title'
     },
     {
       id: 4,
-      year: '2023',
-      title: 'First trip to Discord',
-      emoji: '🏖️',
-      description: 'Virtual adventures and perfect moments'
+      year: '2025',
+      title: 'Second date in June',
+      emoji: '💕',
+      description: 'June vibes and deeper connections'
     },
     {
       id: 5,
-      year: '2024',
-      title: 'Aaj: Happy Anniversary!',
+      year: '2025',
+      title: 'Aaj: Happy 1st Anniversary!',
       emoji: '💖',
-      description: 'Celebrating our beautiful journey'
+      description: 'Celebrating our beautiful journey - Sept 17'
     }
   ];
 
