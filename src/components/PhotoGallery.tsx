@@ -48,7 +48,7 @@ const PhotoGallery = () => {
       id: 5,
       src: anniversarySetup,
       caption: "Ring Exchange 💍",
-      description: “ungliyon mein pyaar ka chhota sa wada bandh dena” 💍❤️
+      description: “ungliyon mein pyaar ka chhota sa wada bandh dena 💍❤️” 
     }
   ]);
 
