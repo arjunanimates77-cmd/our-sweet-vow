@@ -24,8 +24,8 @@ const WhyILoveYou = () => {
     {
       id: 2,
       icon: <Heart className="w-8 h-8 fill-current" />,
-      title: 'Jab tum "Left sock mystery" kehti ho',
-      description: "Your silly jokes make everything better",
+      title: 'Jab tum "world\'s fastest ashleel novel reader" kehti ho',
+      description: "Your unique reading skills make me laugh",
       color: "text-secondary"
     },
     {

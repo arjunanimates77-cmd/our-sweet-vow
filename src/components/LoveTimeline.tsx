@@ -32,16 +32,16 @@ const LoveTimeline = () => {
     {
       id: 3,
       year: '2023',
-      title: 'Woh waali hansi "Golgappa champion"',
+      title: 'Woh waali hansi "tharki no.1"',
       emoji: '😄',
-      description: 'When you became the golgappa champion'
+      description: 'When you earned this special title'
     },
     {
       id: 4,
       year: '2023',
-      title: 'First trip to Goa',
+      title: 'First trip to Discord',
       emoji: '🏖️',
-      description: 'Beach sunsets and perfect moments'
+      description: 'Virtual adventures and perfect moments'
     },
     {
       id: 5,
