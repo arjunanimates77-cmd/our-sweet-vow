@@ -10,7 +10,6 @@ interface TimeLeft {
   minutes: number;
   seconds: number;
 }
-
 const CounterAndPlans = () => {
   const [timeElapsed, setTimeElapsed] = useState<TimeLeft>({ days: 0, hours: 0, minutes: 0, seconds: 0 });
   const [showConfetti, setShowConfetti] = useState(false);
